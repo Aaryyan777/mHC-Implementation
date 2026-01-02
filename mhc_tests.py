@@ -1,5 +1,5 @@
 """
-Comprehensive test cases to validate the mHC implementation according to the research paper.
+Test cases to validate the mHC implementation according to the research paper.
 These tests verify the mathematical properties, stability, and functionality of mHC.
 """
 import torch
